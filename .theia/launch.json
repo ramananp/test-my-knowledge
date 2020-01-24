@@ -1,0 +1,25 @@
+{
+   "configurations": [
+      {
+         "type": "java",
+         "name": "CodeLens (Launch) - Test",
+         "request": "launch",
+         "mainClass": "Test",
+         "projectName": "test-my-knowledge_c06c3e6f"
+      },
+      {
+         "type": "java",
+         "name": "CodeLens (Launch) - Test",
+         "request": "launch",
+         "mainClass": "datastructure.Test",
+         "projectName": "test-my-knowledge_c06c3e6f"
+      },
+      {
+         "type": "java",
+         "name": "CodeLens (Launch) - Test",
+         "request": "launch",
+         "mainClass": "data_structure.Test",
+         "projectName": "test-my-knowledge_c06c3e6f"
+      }
+   ]
+}
