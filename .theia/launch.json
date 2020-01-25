@@ -2,6 +2,27 @@
    "configurations": [
       {
          "type": "java",
+         "name": "CodeLens (Launch) - HelloWorld",
+         "request": "launch",
+         "mainClass": "io.ramanan.HelloWorld",
+         "projectName": "test-my-knowledge_c06c3e6f"
+      },
+      {
+         "type": "java",
+         "name": "CodeLens (Launch) - Test",
+         "request": "launch",
+         "mainClass": "io.ramanan.Test",
+         "projectName": "test-my-knowledge_c06c3e6f"
+      },
+      {
+         "type": "java",
+         "name": "CodeLens (Launch) - Test",
+         "request": "launch",
+         "mainClass": "io.ramanan.datastructures.Test",
+         "projectName": "test-my-knowledge_c06c3e6f"
+      },
+      {
+         "type": "java",
          "name": "CodeLens (Launch) - Test",
          "request": "launch",
          "mainClass": "Test",
